@@ -1,6 +1,6 @@
 # Simulador de un Sistema Bancario Concurrente Avanzado (SecureBankTester)
 
-![Banner SecureBankTester](docs/SecureBank_banner.png)
+![Banner SecureBank](docs/securebank_banner.png)
 
 **Asignatura:** Sistemas Operativos (Curso 2024-2025)  
 **Práctica Final de Asignatura – Parte I**
