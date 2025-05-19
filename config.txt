@@ -1,0 +1,13 @@
+# Límites de Operaciones
+LIMITE_RETIRO=5000
+LIMITE_TRANSFERENCIA=10000
+
+# Umbrales de Detección de Anomalías
+UMBRAL_RETIROS=3
+UMBRAL_TRANSFERENCIAS=5
+
+# Parámetros de Ejecución
+NUM_HILOS=3
+ARCHIVO_CUENTAS=cuentas.dat
+# Archivo de log global del monitor
+ARCHIVO_LOG=log_banco_completo.log
